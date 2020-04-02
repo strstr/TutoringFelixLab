@@ -2,7 +2,8 @@
 
 #include <iostream>
 
-void Output(int i)
+void Output(float i)
 {
 	 std::cout << i;
+	 std::cout << std::endl;
 }
